@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+.vscode
+checkpoints
+ckpt
+pretrained
+*.out
+*.err
+*.log
+log*
+tmp
