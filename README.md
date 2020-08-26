@@ -1,4 +1,4 @@
-# AdaDSR
+# AdaDSR (ECCV 2020 AIM workshop)
 
 **PyTorch** implementation of [Deep Adaptive Inference Networks for Single Image Super-Resolution](https://arxiv.org/abs/2004.03915)
 
@@ -71,10 +71,10 @@ We show some exemplar commands here for better introduction, and more useful scr
 ## Citation
 If you find AdaDSR useful in your research, please consider citing:
 
-    @article{AdaDSR,
+    @inproceedings{AdaDSR,
         title={Deep Adaptive Inference Networks for Single Image Super-Resolution},
         author={Liu, Ming and Zhang, Zhilu and Hou, Liya and Zuo, Wangmeng and Zhang, Lei},
-        journal={arXiv preprint arXiv:2004.03915},
+        booktitle={European Conference on Computer Vision Workshops},
         year={2020}
     }
 
